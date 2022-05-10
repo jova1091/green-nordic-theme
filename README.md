@@ -4,4 +4,4 @@
 
 Inspired in dark nordic color palette.
 
-![preview] (https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/VFOYf4giHxdy5rJkTigYeVUdaTt2/WSuXdYCJ-panelTerminal.jpeg)
+![Green nordic Theme preview](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/VFOYf4giHxdy5rJkTigYeVUdaTt2/WSuXdYCJ-panelTerminal.jpeg)
