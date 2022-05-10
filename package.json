@@ -1,0 +1,21 @@
+{
+    "name": "green-nordic-theme",
+    "displayName": "Green nordic Theme",
+    "description": "Theme inspired in dark nordic color palette.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Green nordic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Green nordic-color-theme.json"
+            }
+        ]
+    }
+}
