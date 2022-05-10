@@ -3,8 +3,13 @@
     "displayName": "Green nordic Theme",
     "description": "Theme inspired in dark nordic color palette.",
     "version": "0.0.1",
+    "publisher": "Jova1091",
     "engines": {
         "vscode": "^1.67.0"
+    },
+    "galleryBanner": {
+        "color": "#34565d",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
