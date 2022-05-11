@@ -2,7 +2,7 @@
 	"name": "green-nordic-theme",
 	"displayName": "Green nordic Theme",
 	"description": "Theme inspired in dark nordic color palette.",
-	"version": "0.0.4",
+	"version": "1.0.0",
 	"publisher": "Jova1091",
 	"engines": {
 		"vscode": "^1.67.0"
